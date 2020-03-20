@@ -1,5 +1,5 @@
 # Manual
-O programa deve ser executado em sitemas operacionais Linux. Exemplo de como usar o programa utilizando o terminal inicie ele conforme o codigo a baixo:
+O programa deve ser executado em sitemas operacionais Linux. Exemplo de como usar o programa utilizando o terminal:
 
 `./main "arquivo1.txt" "/home/arquivo2.txt"`
 
