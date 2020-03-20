@@ -6,7 +6,7 @@ O programa deve ser executado em sitemas operacionais Linux. Exemplo de como usa
 # Sobre o código
 Informado os arquivos por parametros é feito a verificação de leitura deles e criado uma lista de struct Alunos,
 separando os dados em nome e matricula. Após a criação da lista organizamos a mesma e removemos os registros que tiverem
-**Nomes** iguais **_E_** **Matriculas** iguais.
+nomes **_E_** matriculas iguais.
 
 Para fazer a organização é usado o `lista.sort()`, que segue a regra dentro da struct.
 
